@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assigned2Me+</string>
+
+    <string-array name="assignment_status_array">
+        <item>Not Started</item>
+        <item>In Progress</item>
+        <item>Completed</item>
+    </string-array>
+</resources>

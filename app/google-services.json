@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715402465753",
+    "project_id": "assigned2me-65edf",
+    "storage_bucket": "assigned2me-65edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715402465753:android:54d398428047ce1a6189c8",
+        "android_client_info": {
+          "package_name": "com.efemistik.assigned2me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKyDHcOp0JrYXIzNZ7-7yUobcPjMHAN1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
